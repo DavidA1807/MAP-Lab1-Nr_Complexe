@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args)
+    static void main(String[] args)
     {
 //        try{
 //            File fisier = new File("expresie.txt");
